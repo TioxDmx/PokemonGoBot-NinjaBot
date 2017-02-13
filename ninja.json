@@ -1,0 +1,1669 @@
+{
+  "hatching": {
+    "KM2": {
+      "enabled": true,
+      "preferUnlimited": true,
+      "force": false,
+      "priority": 1
+    },
+    "KM5": {
+      "enabled": true,
+      "preferUnlimited": true,
+      "force": false,
+      "priority": 2
+    },
+    "KM10": {
+      "enabled": true,
+      "preferUnlimited": true,
+      "force": false,
+      "priority": 3
+    },
+    "neverUseLimited": false
+  },
+  "map": {
+    "lng": 9.18073821401768,
+    "lat": 48.77002000956188,
+    "speed": 3.0,
+    "radius": 1.0,
+    "paths": []
+  },
+  "autodrop": {
+    "ITEM_SUPER_POTION": 10,
+    "ITEM_ULTRA_BALL": 30,
+    "ITEM_POKE_BALL": 30,
+    "ITEM_INCENSE_ORDINARY": 20,
+    "ITEM_RAZZ_BERRY": 15,
+    "ITEM_GREAT_BALL": 30,
+    "ITEM_REVIVE": 5,
+    "ITEM_MASTER_BALL": 30,
+    "ITEM_POTION": 5
+  },
+  "autopokemons": {
+    "ARCANINE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DROWZEE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VULPIX": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "FURRET": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DITTO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SNUBBULL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SLOWKING": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CORSOLA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KRABBY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KINGLER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "WOOPER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CATERPIE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NIDORAN_FEMALE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KABUTO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HO_OH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "EKANS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VENOMOTH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GEODUDE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "JUMPLUFF": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MARILL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TOGEPI": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAGNEMITE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ZAPDOS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DRATINI": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NINETALES": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BLISSEY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "IGGLYBUFF": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "WEEPINBELL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAGMAR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "RHYHORN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HOUNDOUR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MEOWTH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MACHOP": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VAPOREON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VENONAT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MISDREAVUS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MURKROW": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "WEEDLE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CHARMANDER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KINGDRA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TYPHLOSION": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DRAGONITE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PIDGEOT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "WOBBUFFET": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TENTACOOL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "RAPIDASH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "RAICHU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GRIMER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ALAKAZAM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAROWAK": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TANGELA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HOPPIP": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HYPNO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PARASECT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "EEVEE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VICTREEBEL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SEAKING": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SLOWBRO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "YANMA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "STARMIE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "FEAROW": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SANDSHREW": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SPINARAK": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MANKEY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CLOYSTER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "WEEZING": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SLOWPOKE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAGNETON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HAUNTER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MEW": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PIKACHU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MR_MIME": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CLEFABLE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "STEELIX": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GRAVELER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "POLIWRATH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CROBAT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "UMBREON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DIGLETT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "WARTORTLE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GASTLY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "AMPHAROS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NIDOKING": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SHELLDER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GLOOM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "FERALIGATR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GROWLITHE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KABUTOPS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DELIBIRD": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GOLBAT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NIDOQUEEN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "FARFETCHD": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SEEL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CUBONE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "RATTATA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "POLITOED": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HERACROSS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TENTACRUEL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CHARIZARD": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ARIADOS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BULBASAUR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SQUIRTLE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SMOOCHUM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "QWILFISH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "OMASTAR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "METAPOD": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MACHOKE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SKARMORY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KADABRA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HITMONCHAN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BELLOSSOM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "LAPRAS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ARTICUNO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CLEFAIRY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PARAS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HOOTHOOT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DONPHAN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TOGETIC": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SUNFLORA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SCYTHER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HOUNDOOM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PINECO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "QUILAVA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "LANTURN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HORSEA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "XATU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BLASTOISE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MEGANIUM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GIRAFARIG": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BEEDRILL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SUNKERN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "REMORAID": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TAUROS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MANTINE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CYNDAQUIL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SHUCKLE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TEDDIURSA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "LARVITAR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "AZUMARILL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HITMONLEE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NIDORINO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MACHAMP": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "EXEGGUTOR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PORYGON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "JIGGLYPUFF": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SNEASEL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "UNOWN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SNORLAX": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SWINUB": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "EXEGGCUTE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PIDGEOTTO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SEADRA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PIDGEY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "POLIWAG": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TOTODILE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "AIPOM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GENGAR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAGCARGO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CELEBI": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SANDSLASH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CHIKORITA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DUGTRIO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NOCTOWL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GOLDUCK": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "JOLTEON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BAYLEEF": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DODUO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "RAIKOU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ZUBAT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MUK": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PINSIR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GYARADOS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CHANSEY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CHINCHOU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "FLAAFFY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ESPEON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ENTEI": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "STARYU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "LEDIAN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "HITMONTOP": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAGBY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ELEKID": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MILTANK": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CHARMELEON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "FLAREON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CLEFFA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TYRANITAR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MOLTRES": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DUNSPARCE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VOLTORB": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DODRIO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ODDISH": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PERSIAN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DEWGONG": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "URSARING": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "LICKITUNG": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PSYDUCK": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PILOSWINE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VILEPLUME": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GLIGAR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "JYNX": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "FORRETRESS": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "LUGIA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SUICUNE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAGIKARP": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PHANPY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PUPITAR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PORYGON2": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "QUAGSIRE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KOFFING": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MEWTWO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NATU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "RATICATE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "AERODACTYL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BUTTERFREE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "WIGGLYTUFF": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NIDORAN_MALE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "CROCONAW": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ELECTRODE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SLUGMA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SENTRET": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ELECTABUZZ": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SPEAROW": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GOLEM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ONIX": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "IVYSAUR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "DRAGONAIR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ARBOK": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "POLIWHIRL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PRIMEAPE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "TYROGUE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "LEDYBA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SCIZOR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "BELLSPROUT": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "OCTILLERY": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PONYTA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "PICHU": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "NIDORINA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GOLDEEN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SUDOWOODO": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "VENUSAUR": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KANGASKHAN": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "MAREEP": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "RHYDON": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "KAKUNA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "STANTLER": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "OMANYTE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SKIPLOOM": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "ABRA": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "GRANBULL": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    },
+    "SMEARGLE": {
+      "evolve": true,
+      "transfer": true,
+      "ignore": false,
+      "keep": false
+    }
+  },
+  "snipeRegular": false,
+  "snipeAutoTransfer": false,
+  "snipeUseBest": true,
+  "snipeTargets": [],
+  "capture": {},
+  "autopokemonsEnabled": true,
+  "autodropDelay": 2,
+  "username": "ImmerAmLaufen",
+  "password": "Michel1998?",
+  "autoLogin": false,
+  "autoStart": false,
+  "hashLicense": "",
+  "autodropEnabled": true,
+  "audio": {
+    "robbed": true,
+    "pickup": true,
+    "throwing": true,
+    "caught": true,
+    "pokedex": true,
+    "missed": true,
+    "escaped": true,
+    "fled": true,
+    "evolved": true,
+    "transfered": true,
+    "powerup": true,
+    "struggle": true,
+    "hatched": true,
+    "levelup": true,
+    "badge": true,
+    "generic": true,
+    "bagfull": true,
+    "volume": 100
+  },
+  "warningDone": false,
+  "lastCheck": 1486993342874,
+  "seen": {
+    "129": true,
+    "132": true,
+    "4": true,
+    "133": true,
+    "134": true,
+    "7": true,
+    "8": true,
+    "136": true,
+    "10": true,
+    "11": true,
+    "13": true,
+    "14": true,
+    "15": true,
+    "16": true,
+    "17": true,
+    "19": true,
+    "20": true,
+    "21": true,
+    "22": true,
+    "29": true,
+    "30": true,
+    "32": true,
+    "33": true,
+    "35": true,
+    "39": true,
+    "40": true,
+    "41": true,
+    "42": true,
+    "43": true,
+    "44": true,
+    "46": true,
+    "47": true,
+    "48": true,
+    "49": true,
+    "50": true,
+    "52": true,
+    "53": true,
+    "60": true,
+    "64": true,
+    "66": true,
+    "69": true,
+    "72": true,
+    "74": true,
+    "75": true,
+    "77": true,
+    "79": true,
+    "80": true,
+    "86": true,
+    "90": true,
+    "92": true,
+    "93": true,
+    "96": true,
+    "97": true,
+    "98": true,
+    "99": true,
+    "100": true,
+    "102": true,
+    "108": true,
+    "109": true,
+    "110": true,
+    "111": true,
+    "122": true,
+    "127": true
+  },
+  "autotransferEnabled": true,
+  "autotransfer": {
+    "andMode": true,
+    "enableOr": false,
+    "keepMin": 2,
+    "bestMode": false,
+    "bestMin": 2,
+    "bestCP": true,
+    "bestIV": false,
+    "bestLVL": false,
+    "bestIVxLVL": false,
+    "transferEggs": false
+  },
+  "autoincubate": true,
+  "robpokestops": true,
+  "catchpokemons": true,
+  "lang": "de",
+  "killswitchEnabled": false,
+  "killswitch": {},
+  "minimizeToTray": false
+}
